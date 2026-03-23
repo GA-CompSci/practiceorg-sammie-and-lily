@@ -4,7 +4,7 @@
 *
 -------------------------------------------------*/
 .theme-color-aqua a:not([class^='button']):not([class^="link-social"]):not(.header-logo a):hover {
-  color: #03D4D8;
+  color: #C9E4CA;
 }
 
 .theme-color-aqua [class*='bg-gradient'] a:not([class^='button']):not([class^="link-social"]):not(.header-logo a):hover,
